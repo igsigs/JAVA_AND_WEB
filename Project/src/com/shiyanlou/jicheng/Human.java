@@ -2,8 +2,6 @@ package com.shiyanlou.jicheng;
 
 /**
  * »À¿‡ £®¿‡£©
- * 
- * 
  */
 public class Human {
    String name;
