@@ -1,7 +1,6 @@
 package com.shiyanlou.jicheng;
 
 public class Test {
-
 	/**
 	 * Ö÷³ÌĞòÀà
 	 */
