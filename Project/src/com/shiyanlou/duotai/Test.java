@@ -21,7 +21,5 @@ public class Test {
 		}else{
 			System.out.println("不可以转换");
 		}
-
 	}
-
 }
