@@ -2,7 +2,6 @@ package com.shiyanlou.Abstract;
 /**
  * ³éÏó¸¸Àà
  * @author Administrator
- *
  */
 public abstract class Animal {
 	abstract public void eat();
