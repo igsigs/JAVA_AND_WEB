@@ -2,7 +2,9 @@ package com.tarena.shoot;
 
 import java.awt.image.BufferedImage;
 
-/** 飞行物 */
+/** 
+ * 飞行物
+ */
 public abstract class FlyingObject {
 	public BufferedImage image; // 贴图
 	public int width; // 宽
