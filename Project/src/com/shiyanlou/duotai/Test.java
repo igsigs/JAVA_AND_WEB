@@ -26,12 +26,20 @@ public class Test {
 
 		// d.attack(); //父类的引用指向子类的对象，不能调用子类独有的方法。只能调用它跟父类有关联的方法
 
-		Animal obj = new Dog();
-		
-		if(obj instanceof Dog){
+		Animal obj = new Dog();  //向上类型转换
+//		Dog obj2 = new Animal(); //子类的引用不能指向父类的对象，否则会报错。
+		if(obj instanceof Dog){  //instanceof 类型安全转换关键字
 			Dog animal = (Dog) obj;
+			System.out.println("转换成功");
 		}else{
 			System.out.println("不可以转换");
+		}
+		
+		Cat obj3 = new Cat();
+		if(){
+			
+		}else{
+			
 		}
 	}
 }
