@@ -35,11 +35,11 @@ public class Test {
 			System.out.println("不可以转换");
 		}
 		
-		Cat obj3 = new Cat();
-		if(){
-			
-		}else{
-			
-		}
+//		Cat obj3 = new Cat();
+//		if(){
+//			
+//		}else{
+//			
+//		}
 	}
 }
