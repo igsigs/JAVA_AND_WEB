@@ -2,7 +2,6 @@ package com.shiyanlou.duotai;
 
 /**
  * ¶¯ÎïÀà
- * 
  */
 public class Animal {
 	public void eat(){
