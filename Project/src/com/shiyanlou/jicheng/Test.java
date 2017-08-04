@@ -2,16 +2,16 @@ package com.shiyanlou.jicheng;
 
 public class Test {
 	/**
-	 * 主程序类
+	 * 锟斤拷锟斤拷锟斤拷锟斤拷
 	 */
 	public static void main(String[] args) {
 		Lisi ls = new Lisi();
-		ls.name = "李四";
+		ls.name = "锟斤拷锟斤拷";
 		ls.age = 24;
-		ls.gender = '男';
+//		ls.gender = '锟斤拷';
 		ls.action();
 		ZhangSan zs = new ZhangSan();
-		zs.active();  //当子类重写了父类的方法时，程序有优先调用子类的方法
+		zs.active();  //锟斤拷锟斤拷锟斤拷锟斤拷写锟剿革拷锟斤拷姆锟斤拷锟绞憋拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷鹊锟斤拷锟斤拷锟斤拷锟侥凤拷锟斤拷
 		zs.action();
 	}
 
